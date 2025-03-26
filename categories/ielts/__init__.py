@@ -1,0 +1,2 @@
+
+# Make categories a package
